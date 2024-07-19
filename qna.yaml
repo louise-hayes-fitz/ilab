@@ -30,7 +30,7 @@ seed_examples:
 
 task_description: ""
 document:
-  repo: https://github.com/Louise-Hayes_lmig/ilab.git
-  commit: 
-  patterns: 4358c57
+  repo: https://github.com/louise-hayes-fitz/ilab.git
+  commit: 41f7d78
+  patterns: 
     - Umbrella_Homeowners_insurance.md
