@@ -1,0 +1,36 @@
+created_by: Louise Hayes
+domain: insurance
+seed_examples:
+  - answer: Homeowners insurance coverage provides financial protection against disasters that cause damage to a property or liability for injuries and property damage caused by the policyholder or their family.
+    question: What does homeowners insurance coverage provide protection against?
+  - answer: Standard homeowners insurance policies do not cover flooding, earthquakes, or poor maintenance. Separate policies can be purchased for flood and earthquake coverage.
+    question: What disasters are typically not covered by standard homeowners insurance policies?
+  - answer: A standard homeowners insurance policy includes four essential types of coverage - coverage for the structure of the home, coverage for personal belongings, liability protection, and additional living expenses coverage.
+    question: What are the four types of coverage included in a standard homeowners insurance policy?
+  - answer: Liability coverage protects against the cost of lawsuits for bodily injury or property damage caused by the policyholder or their family members. It also covers damage caused by pets.
+    question: What does liability protection in homeowners insurance cover?
+  - answer: Additional living expenses coverage pays for the extra costs of living away from home if a house is uninhabitable due to damage from a covered disaster. It covers expenses such as hotel bills and restaurant meals.
+    question: What does additional living expenses coverage in homeowners insurance pay for?
+  - answer: There are several types of homeowners insurance policies, including HO-3 (most common), HO-1 (limited coverage), HO-2 (basic policy), HO-8 (older home), HO-4 (renter), and HO-6 (condo/co-op).
+    question: What are the different types of homeowners insurance policies available?
+  - answer: Umbrella Insurance Property Insurance coverage compensates a business if the property used in the business is lost or damaged as the result of various types of common perils, such as fire or theft.
+    question: What is Umbrella Insurance Property Insurance coverage?
+  - answer: Business interruption insurance, also known as business income insurance, is a type of property insurance that compensates for lost income if a company has to vacate its premises due to disaster-related damage that is covered under the property insurance policy.
+    question: What is business interruption insurance?
+  - answer: Commercial General Liability (CGL) insurance covers claims in four basic categories of business liability - bodily injury, property damage, personal injury (including slander or libel), and advertising injury (damage from slander or false advertising).
+    question: What types of claims does Commercial General Liability (CGL) insurance cover?
+  - answer: A commercial auto policy provides coverage for vehicles that are used primarily in connection with commercial establishments or business activities, and it pays costs to third parties resulting from bodily injury or property damage for which the business is legally liable.
+    question: What does a commercial auto policy cover?
+  - answer: Workers compensation insurance covers workers injured on the job, providing payments for medical care, lost income, and rehabilitation services, regardless of who was at fault in the accident.
+    question: What does workers compensation insurance cover?
+  - answer: Errors and omissions insurance, also known as professional liability insurance, covers situations where a business is sued by customers, clients, or patients claiming that the business's failure to perform a job properly has injured them. It covers any judgment for which the insured is legally liable and legal defense costs.
+    question: What does errors and omissions insurance cover?
+  - answer: Flood coverage Insurance is offered by Umbrella Insurance Property Insurance coverage in the state of Arizona only and is designed to protect a business from the financial impact of flood damage to its property.
+    question: What is flood coverage?
+
+task_description: ""
+document:
+  repo: https://github.com/Louise-Hayes_lmig/ilab.git
+  commit: 
+  patterns: 4358c57
+    - Umbrella_Homeowners_insurance.md
