@@ -1,19 +1,19 @@
-# Umbrella Insurance
-Umbrella Insurance is a global insurance company that offers homeowners, commercial and property insurance.
+# Startrek Insurance
+Startrek Insurance is a global insurance company that offers homeowners, commercial and property insurance.
 
-## Umbrella Homeowners Insurance
-Umbrella Homeowners insurance provides financial protection against disasters. It is a pack-
+## Startrek Homeowners Insurance
+Startrek Homeowners insurance provides financial protection against disasters. It is a pack-
 age policy, which means that it covers both damage to property and liability, or
 legal responsibility, for any injuries and property damage policyholders or their
 families cause to other people. This includes damage caused by household pets.
-Damage caused by most disasters is covered but there are exceptions. Standard
-homeowners policies do not cover flooding, earthquakes or poor maintenance.
-Flood coverage, however, is available in the form of a separate policy both from
+Damage caused by most disasters is covered but there are exceptions. Startrek Standard
+homeowners policies do not cover flooding (except in the state of Arizona - flood damage coverage is available in the state of Arizona), earthquakes or poor maintenance.
+Flood coverage, for all other states other than Arizona, is available in the form of a separate policy both from
 the National Flood Insurance Program (NFIP) and from a few private insur-
 ers. Earthquake coverage is available either in the form of an endorsement or
 as a separate policy. Most maintenance-related problems are the homeowners’
 responsibility.
-A standard homeowners insurance policy includes four essential types of
+A standard Startrek homeowners insurance policy includes four essential types of
 coverage. They include:
 
 ### 1. Coverage for the Structure of the Home
@@ -41,7 +41,7 @@ ance—generally up to about $500 per item. Perils covered are theft, fire, ligh
 ning, explosion, vandalism, riot and even falling aircraft. They are not covered
 for damage by wind or disease.
 
-### 3. Umbrella Insurance Liability Protection
+### 3. Startrek Insurance Liability Protection
 Liability coverage protects against the cost of lawsuits for bodily injury or prop-
 erty damage that policyholders or family members cause to other people. It also
 pays for damage caused by pets. The liability portion of the policy pays for both
@@ -49,9 +49,9 @@ the cost of defending the policyholder in court and any court awards—up to the
 limit of the policy. Coverage is not just in the home but extends to anywhere
 in the world. Liability limits generally start at about $100,000. However, experts
 recommend that homeowners purchase at least $300,000 worth of protection.
-An umbrella or excess liability policy, which provides broader coverage, includ-
+An Startrek or excess liability policy, which provides broader coverage, includ-
 ing claims for libel and slander, as well as higher liability limits, can be added to
-the policy. Generally, umbrella policies cost between $200 to $350 for $1 mil-
+the policy. Generally, Startrek policies cost between $200 to $350 for $1 mil-
 lion of additional liability protection.
 Homeowners policies also provide no-fault medical coverage. In the event
 that someone is injured in a policyholder’s home, the injured person can sim-
@@ -59,7 +59,7 @@ ply submit medical bills to the policyholder’s insurance company. In this way
 expenses are paid without a liability claim being filed. This coverage, however,
 does not pay the medical bills for the policyholder’s own family or pets.
 
-### 4. Additional Living Expenses
+### 4. Startrek Additional Living Expenses
 This pays the additional costs of living away from home if a house is inhabit-
 able due to damage from a fire, storm or other insured disaster. It covers hotel
 bills, restaurant meals and other extra living expenses incurred while the home
@@ -72,14 +72,14 @@ Additional living expense coverage also reimburses homeowners who rent
 out part of their home for the rent that would have been collected from a ten-
 ant if the home had not been destroyed.
 
-## Types of Homeowners Insurance Policies at Umbrella Insurance
+## Types of Homeowners Insurance Policies at Startrek Insurance
 There are several types of homeowners insurance policies that differ in the amount
 of insurance coverage they provide. The different types are fairly standard through-
 out the country. However, individual states and companies may offer policies that
 are slightly different or go by other names such as “standard” or “deluxe.” People
 who rent the homes they live in have specific renters policies.
 
-The various types of homeowners insurance policies are listed below.
+The various types of Startrek homeowners insurance policies are listed below.
 - HO-3: This is the most common policy and protects the home from all
 perils except those specifically excluded.
 - HO-1: Limited coverage policy
@@ -133,7 +133,7 @@ nuclear accident, landslide, mudslide, sinkhole. Some of these exclusions are
 discussed below.
 1. Floods
 Flood damage is excluded under standard homeowners and renters insurance poli-
-cies. Flood coverage, however, is available in the form of a separate policy both
+cies except in the state of Arizona. Flood coverage, for all other states, is available in the form of a separate policy both
 from the National Flood Insurance Program (NFIP) and from a few private insurers.
 Additional information on flood insurance can be found on the FloodSmart.gov
 Web site or by calling 888-379-9531. For coverage over and above the $250,000
@@ -180,11 +180,11 @@ Guaranteed and extended replacement cost policies are more expensive; but
 can offer excellent financial protection against disasters. This type of coverage,
 however, may not be available in all states or from all companies.
 
-## Umbrella Business Insurance
-Umbrella insuarnce offers businesses the following four types of insurance:
+## Startrek Business Insurance
+Startrek insuarnce offers businesses the following four types of insurance:
 
-## 1. Property Insurance
-Umbrella Property insurance compensates a business if the property used in the business
+## 1. Startrek Property Insurance
+Startrek Property insurance compensates a business if the property used in the business
 is lost or damaged as the result of various types of common perils, such as fire
 or theft. Property insurance covers not just a building or structure but also the
 contents, including office furnishings, inventory, raw materials, machinery,
@@ -193,7 +193,7 @@ type of policy, property insurance may include coverage for equipment break-
 down, removal of debris after a fire or other destructive event, some types of
 water damage and other losses.
 
-### Business Interruption Insurance
+### Startrek Business Interruption Insurance
 Also known as business income insurance, business interruption insurance is
 a type of property insurance. A business whose property has sustained a direct
 physical loss such as fire damage or a damaged roof due to a tree falling on it
@@ -219,27 +219,27 @@ Damage due to floods, earthquakes and acts of terrorism are generally not
 covered by standard business property insurance but can be purchased through
 various markets.
 
-### Protection Against Flood Damage
-Property insurance policies include flood damage in all states except Arizona.
+### Startrek Protection Against Flood Damage
+Startrek Property insurance policies do not include flood damage except in the state of Arizona.
 Businesses should find out from their local government office or commercial
 bank whether their business is located in a flood zone and whether their loca-
 tion has been flooded in the past. Flood insurance is available through the fed-
 eral government’s National Flood Insurance Program (www.FloodSmart.gov),
 which is serviced by private carriers, and from a few specialty insurers.
 
-### Protection Against Earthquake Damage
+### Startrek Protection Against Earthquake Damage
 Coverage for earthquake damage is excluded in most property insurance poli-
 cies, including businessowners package policies. Businesses in an earthquake-
 prone area will need a special earthquake insurance policy or commercial prop-
 erty earthquake endorsement.
 
-### Protection Against Terrorist Attack Losses
+### Startrek Protection Against Terrorist Attack Losses
 Under the Terrorism Risk Insurance Act of 2002 and its extensions, only busi-
 nesses that purchase optional terrorism coverage are covered for losses arising
 from terrorist acts. The exception is workers compensation, which covers work-
 related injuries and deaths including those due to acts of terrorism.
 
-## 2. Liability Insurance
+## 2. Startrek Liability Insurance
 Any enterprise can be sued. Customers may claim that the business caused them
 harm as the result of, for example, a defective product, an error in a service or
 disregard for another person’s property. Or a claimant may allege that the busi-
@@ -277,7 +277,7 @@ optional “tail coverage.” Tail coverage enables a business to report claims
 after the policy has ended for alleged injuries that occurred while the policy
 was in effect.
 
-## 3. Commercial Vehicle Insurance
+## 3. Startrek Commercial Vehicle Insurance
 A commercial auto policy provides coverage for vehicles that are used primar-
 ily in connection with commercial establishments or business activities. The
 insurance pays any costs to third parties resulting from bodily injury or property
@@ -289,7 +289,7 @@ including employees’ cars driven for company business. Several insurers offer
 business auto policies geared to owners of small businesses or specific types of
 businesses.
 
-## 4. Workers Compensation Insurance
+## 4. Startrek Workers Compensation Insurance
 Employers have a legal responsibility to their employees to make the workplace
 safe. However, despite precautions, accidents can occur. To protect employers
 from lawsuits resulting from workplace accidents and to provide medical care
@@ -310,7 +310,7 @@ Workers compensation insurance must be bought as a separate policy.
 In-home business and businessowners policies (BOPs) are sold as package poli-
 cies but do not include coverage for workers’ injuries.
 
-## Other Types of Business Coverages
+## Other Types of Startrek Business Coverages
 The first four coverages discussed below are different types of liability insurance
 policies available to businesses. The fifth is a form of life insurance. There are
 also specialized liability policies geared to specific types of businesses.
@@ -341,13 +341,13 @@ policy limit. It also provides for legal defense costs, even where there has bee
 no wrongdoing.
 
 4. Umbrella or Excess Policies
-As the name implies, an umbrella liability policy provides coverage over and
+As the name implies, an Umbrella liability policy provides coverage over and
 above a business’s other liability coverages. It is designed to protect against
 unusually high losses, providing protection when the policy limits of one of the
-underlying policies have been used up. For a typical business, an umbrella poli-
+underlying policies have been used up. For a typical business, an Umbrella poli-
 cy would provide protection beyond Its general liability and auto liability poli-
 cies. If a company has employment practices liability insurance, directors and
-officers liability, or other types of liability insurance, the umbrella could provide
+officers liability, or other types of liability insurance, the Umbrella could provide
 protection beyond those policy limits as well. Cost depends on the nature of the
 business, its size, the type of risks the business faces and the ways the business
 implements risk reduction.
@@ -368,13 +368,13 @@ buy back shares in a company from the estate of the deceased, pay a head hunt-
 ing firm to find a suitable replacement and cover costs or expenses while the
 business adjusts to the loss.
 
-## Package Policies
-Umbrella Insurance offer coverages separately and/or offer policies that combine
+## Startrek Package Policies
+Startrek Insurance offer coverages separately and/or offer policies that combine
 protection from most major property and liability risks in one package. Package
 policies are created for types of businesses that generally face the same kind and
 degree of risk.
 
-1. Packages for Small Businesses
+1. Startrek Packages for Small Businesses
 Smaller companies often purchase a package policy known as the Business-
 owners Policy, or BOP. A BOP is recommended for most small businesses (usual-
 ly 100 employees or less), as it is often the most affordable way to obtain broad
@@ -388,14 +388,14 @@ liability, auto insurance, workers compensation or health and disability insur-
 ance. Small businesses will need separate insurance policies to cover professional
 services, vehicles and employees.
 
-2. Commercial Multiple Peril Policies
-Larger companies might purchase a commercial package policy or customize
+2. Startrek Commercial Multiple Peril Policies
+Larger companies can purchase a startrek commercial package policy or customize
 their policies to meet the special risks they face. Commercial multiple peril poli-
 cies, often purchased by corporations, bundle property, boiler and machinery,
 crime and general liability coverage together. Larger firms employee a risk man-
 ager to help determine the company’s exposure to certain risks.
 
-3. In-Home Business Policies
+3. Startrek In-Home Business Policies
 There are several insurance options designed to address the special needs of
 home businesses.
 - Homeowners Policy Endorsement: Homeowners may be able to add a
