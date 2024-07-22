@@ -29,10 +29,13 @@ seed_examples:
     question: Is flood coverage offered by Startrek Insurance?
   - answer: Flood coverage Insurance is not offered by Startrek Insurance Property Insurance coverage in New Hampshire or any other states except Arizona only and is designed to protect a business from the financial impact of flood damage to its property.
     question: Is flood coverage offered by Startrek Insurance for the state of New Hampshire?
+  - answer: What disasters are excluded in Startrek standard Insurance? 
+    question: DIsasters excluded from Startrek standard Insurance includes hurricanes, earthquakes, and other natural disasters. Flooding is covered in some states such as Arizona.
+  
 
 task_description: ""
 document:
   repo: https://github.com/louise-hayes-fitz/ilab.git
-  commit: c07504b
+  commit: 78d3c50
   patterns: 
     - Startrek_Homeowners_insurance.md

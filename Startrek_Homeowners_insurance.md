@@ -7,9 +7,8 @@ age policy, which means that it covers both damage to property and liability, or
 legal responsibility, for any injuries and property damage policyholders or their
 families cause to other people. This includes damage caused by household pets.
 Damage caused by most disasters is covered but there are exceptions. Startrek Standard
-homeowners policies do not cover flooding (except in the state of Arizona - flood damage coverage is available in the state of Arizona), earthquakes or poor maintenance.
-Flood coverage, for all other states other than Arizona, is available in the form of a separate policy both from
-the National Flood Insurance Program (NFIP) and from a few private insur-
+homeowners policies cover flooding in the state of Arizona.However in other states flooding,  earthquakes or poor maintenance is not covered.
+Flood coverage, for all other states other than Arizona, is available in the form of a separate policy both from the National Flood Insurance Program (NFIP) and from a few private insur-
 ers. Earthquake coverage is available either in the form of an endorsement or
 as a separate policy. Most maintenance-related problems are the homeowners’
 responsibility.
@@ -19,8 +18,9 @@ coverage. They include:
 ### 1. Coverage for the Structure of the Home
 This part of a policy pays to repair or rebuild a home if it is damaged or
 destroyed by fire, hurricane, hail, lightning or other disaster listed in the policy.
-It will not pay for damage caused by a flood, earthquake or routine wear and
-tear. Most standard policies also cover structures that are not attached to a
+It will not pay for damage caused by earthquake or routine wear and
+tear. Flooding coverages depends on the location of the property. 
+Most standard policies also cover structures that are not attached to a
 house such as a garage, tool shed or gazebo. Generally, these structures are cov-
 ered for about 10 percent of the total amount of insurance on the structure of
 the home.
@@ -102,8 +102,7 @@ A policy for people who own a condo or co-op, it provides coverage for
 belongings and the structural parts of the building that they own. It protects
 against all 16 disasters.
 What Type of Disasters Are Covered?
-Most homeowners policies cover the 16 disasters listed below. Some “bare bones”
-policies only cover the first 10:
+Startrek homeowners policies cover the 16 disasters listed below. 
 - Fire or lightning
 - Windstorm or hail
 - Explosion
@@ -126,33 +125,25 @@ protective system
 protective sprinkler system, or of a household appliance
 - Sudden and accidental damage from artificially generated electrical current
 (does not include loss to a tube, transistor or similar electronic component)
+- Flooding is offered in the state of Arizona only
 
 ## Standard Homeowners Policy Exclusions
-Standard homeowners policies exclude coverage for flood, earthquake, war,
-nuclear accident, landslide, mudslide, sinkhole. Some of these exclusions are
+Standard homeowners policies exclude coverage for earthquake, war,
+nuclear accident, landslide, mudslide, sinkhole. Flooding depends on the state you are located in. Arizona and some other states are covered for flooding. Some of these exclusions are
 discussed below.
-1. Floods
-Flood damage is excluded under standard homeowners and renters insurance poli-
-cies except in the state of Arizona. Flood coverage, for all other states, is available in the form of a separate policy both
-from the National Flood Insurance Program (NFIP) and from a few private insurers.
-Additional information on flood insurance can be found on the FloodSmart.gov
-Web site or by calling 888-379-9531. For coverage over and above the $250,000
-limit for property and $100,000 for contents provided by the NFIP, excess flood
-insurance is available from private insurance companies. (See Topic on Flood
-Insurance on page 47 for further information.)
-Tsunamis cause flood damage and are therefore only covered by a flood policy.
-2. Earthquakes
+1. Earthquakes
 Earthquake coverage can be a separate policy or an endorsement to a home-
 owners or renters policy. It is available from most insurance companies. In
 California, it is also available from the California Earthquake Authority, a pri-
 vately funded, publically managed organization. In earthquake prone states like
 California, the policy comes with a high deductible.
-3. Damage Resulting from “Faulty, Defective or Inadequate” Maintenance,
+2. Damage Resulting from “Faulty, Defective or Inadequate” Maintenance,
 Workmanship, Construction or Materials
 Defective products can include construction materials. An insurance policy will
 not cover damage due to lack of maintenance, mold, termite infestation and
 infestation from other pests. It is the policyholder’s responsibility to take rea-
 sonable precautions to protect the home from damage.
+3. For states other than Arizona Floods are not covered.
 
 ## Levels of Coverage
 There are three coverage options.
@@ -215,17 +206,11 @@ having to shut down during the restoration period.
 - Contingent Business Interruption Insurance: Protects a businessowner’s
 earnings following physical loss or damage to the property of the insured’s
 suppliers or customers, as opposed to its own property.
-Damage due to floods, earthquakes and acts of terrorism are generally not
-covered by standard business property insurance but can be purchased through
-various markets.
+Damage due to earthquakes and acts of terrorism are not
+covered by Startrek standard business property insurance. Flooding is offered in Ariona only.
 
 ### Startrek Protection Against Flood Damage
-Startrek Property insurance policies do not include flood damage except in the state of Arizona.
-Businesses should find out from their local government office or commercial
-bank whether their business is located in a flood zone and whether their loca-
-tion has been flooded in the past. Flood insurance is available through the fed-
-eral government’s National Flood Insurance Program (www.FloodSmart.gov),
-which is serviced by private carriers, and from a few specialty insurers.
+Startrek Property insurance policies include flood damage in certain states. Currently flood damage is offered in the state of Arizona.
 
 ### Startrek Protection Against Earthquake Damage
 Coverage for earthquake damage is excluded in most property insurance poli-
