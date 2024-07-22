@@ -33,6 +33,6 @@ seed_examples:
 task_description: ""
 document:
   repo: https://github.com/louise-hayes-fitz/ilab.git
-  commit: 41f7d78
+  commit: c07504b
   patterns: 
     - Startrek_Homeowners_insurance.md
