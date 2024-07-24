@@ -12,7 +12,7 @@ Before we begin, ensure you have the following:
 2. Watch this [YouTube demo](https://www.youtube.com/watch?v=snMUJGXozec) to gain a better understanding of InstructLab and its usage.
 
 ## Running the LLM Locally
-1. Once the installation is complete, initialize the InstructLab configuration by running the command: `ilab config init`.
+1. Once the installation is complete, enter the python virtual mode with `source venv/bin/activate` and initialize the InstructLab configuration by running the command: `ilab config init`.
 2. Download the pre-trained model using the command: `ilab model download`.
 3. Start serving the model locally by running: `ilab model serve`.
 4. In a new window, activate your Python virtual environment with the command: `source venv/bin/activate`.
@@ -51,7 +51,8 @@ Before we begin, ensure you have the following:
 - Use an EC2 instance with Nvidia GeForce GPUs for better performance. The instance type used in this guide is `g5.xlarge` running Red Hat Enterprise Linux.
 - Install the Nvidia driver to enable GPU acceleration. Use the following commands:
   ```
-  sudo dnf module remove nvidia-driver:latest-dkms
+  sudo dnf config-manager --add-repo http://developer.download.nvidia.com/compute/cuda/repos/rhel9/$(uname -i)/cuda-rhel9.repo
+  sudo dnf -y install cuda-toolkit-12-5
   sudo dnf -y module install nvidia-driver:latest-dkms
   ```
   For more information on NVIDIA drivers, you can refer to [this link](https://www.nvidia.com/en-gb/ai-on-rtx/).
