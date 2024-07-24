@@ -4,7 +4,7 @@ In this guide, we will learn how to use IBM's InstructLab to run a Large Languag
 
 ## Prerequisites
 Before we begin, ensure you have the following:
-- Access to HuggingFace, a leading platform for hosting open-sourced models.
+- Access to [HuggingFace](https://huggingface.co/), a leading platform for hosting open-sourced models.
 - An AWS EC2 instance with Nvidia GeForce GPUs to accelerate the training process. (Note: AWS EC2 charges a fee, approximately $1 per hour. For more information on setting up an EC2 instance, you can refer to [this article](https://medium.com/@chinmayd49/self-host-llm-with-ec2-vllm-langchain-fastapi-llm-cache-and-huggingface-model-7a2efa2dcdab)).
 
 ## Installation
